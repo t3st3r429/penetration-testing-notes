@@ -14,7 +14,7 @@ This notebook was built to help someone crush their OSCP exam, but it turned int
 * [https://casvancooten.com/posts/2020/05/oscp-cheat-sheet-and-command-reference/](https://casvancooten.com/posts/2020/05/oscp-cheat-sheet-and-command-reference/)
 * [https://snovvcrash.rocks/PPN/](https://snovvcrash.rocks/PPN/) (all one page, easy to navigate)
 
-## Best Courses for the OSCP (Ordered by How I Completed Them)
+## Best Courses for the OSCP 
 
 Even without the first group of CompTIA certifications I got, I believe the resources within my notebook is more than enough to pass without any prior experience
 
@@ -35,7 +35,7 @@ Make sure you study each resource thoroughly so you can actually absorb all the 
 * [Proving Grounds Practice](https://www.offensive-security.com/labs/individual/)
 * Finally, after all of this preparation, the OSCP was purchased
 
-## Courses Unrelated to the OSCP
+## Other Courses 
 
 * [Ethical Hacking with Metasploit: Exploit & Post Exploit](https://www.udemy.com/course/ethical-hacking-with-metasploit-exploit-post-exploit/)
 * [Open-Source Intelligence (OSINT) Fundamentals](https://www.udemy.com/course/osint-fundamentals/)
@@ -54,7 +54,7 @@ Make sure you study each resource thoroughly so you can actually absorb all the 
 * [Microsoft Verb-age Docs](https://docs.microsoft.com/en-us/powershell/scripting/developer/cmdlet/approved-verbs-for-windows-powershell-commands?view=powershell-7)
 * [Red Team One-Liners](https://gist.github.com/jivoi/c354eaaf3019352ce32522f916c03d70)
 
-## Unofficial OSCP Approved Tools
+## Tools
 
 * [https://falconspy.medium.com/unofficial-oscp-approved-tools-b2b4e889e707](https://falconspy.medium.com/unofficial-oscp-approved-tools-b2b4e889e707)
 
