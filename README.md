@@ -1,6 +1,6 @@
 # Introduction
 
-This notebook was originally created for the OSCP exam notes, however it also has additional resources and information related to pentesting. If you read through this entire notebook and all the attached resources, you will be beyond prepared for the OSCP. Let's go from zero to hero! 
+This notebook was built to help someone crush their OSCP exam, but it turned into so much more than that. It's packed with pentesting knowledge that goes way beyond the certification 
 
 ## Amazing OSCP Write-Ups and Other Notebooks
 
